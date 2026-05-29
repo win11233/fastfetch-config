@@ -3,7 +3,7 @@
 A minimal and clean fastfetch configuration with a hierarchical tree structure, designed for a modern look.
 
 ## Screenshot
-![Fastfetch Preview](screenshot.png)
+![Fastfetch Preview](Screenshot.png)
 
 ## Installation
 
