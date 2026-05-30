@@ -11,6 +11,7 @@ A minimal and clean fastfetch configuration with a hierarchical tree structure, 
 2. Clone this repository or copy the configuration file manually:
    ```bash
    mkdir -p ~/.config/fastfetch
-   cp config.jsonc ~/.config/fastfetch/config.jsonc
+   cp config.jsonc ~/.config/fastfetch/
+   cp arch.txt ~/.config/fastfetch/
 
 Note: To see the icons correctly, ensure you have a Nerd Font installed (e.g., JetBrainsMono Nerd Font).
